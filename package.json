@@ -1,0 +1,16 @@
+{
+  "name": "kalkulator-line-bot",
+  "version": "1.0.0",
+  "description": "Kalkulator",
+  "main": "index.js",
+  "dependencies": {
+    "bottender": "^0.15.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Helmi Satria",
+  "license": "ISC"
+}
